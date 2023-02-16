@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://andikaflying.github.io/csb-xh7518/static/css/main.7712e656.chunk.css",
+    "main.js": "https://andikaflying.github.io/csb-xh7518/static/js/main.bdde0bc5.chunk.js",
+    "main.js.map": "https://andikaflying.github.io/csb-xh7518/static/js/main.bdde0bc5.chunk.js.map",
+    "runtime-main.js": "https://andikaflying.github.io/csb-xh7518/static/js/runtime-main.1b77eff9.js",
+    "runtime-main.js.map": "https://andikaflying.github.io/csb-xh7518/static/js/runtime-main.1b77eff9.js.map",
+    "static/js/2.e25b9b1b.chunk.js": "https://andikaflying.github.io/csb-xh7518/static/js/2.e25b9b1b.chunk.js",
+    "static/js/2.e25b9b1b.chunk.js.map": "https://andikaflying.github.io/csb-xh7518/static/js/2.e25b9b1b.chunk.js.map",
+    "index.html": "https://andikaflying.github.io/csb-xh7518/index.html",
+    "static/css/main.7712e656.chunk.css.map": "https://andikaflying.github.io/csb-xh7518/static/css/main.7712e656.chunk.css.map",
+    "static/js/2.e25b9b1b.chunk.js.LICENSE.txt": "https://andikaflying.github.io/csb-xh7518/static/js/2.e25b9b1b.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1b77eff9.js",
+    "static/js/2.e25b9b1b.chunk.js",
+    "static/css/main.7712e656.chunk.css",
+    "static/js/main.bdde0bc5.chunk.js"
+  ]
+}
